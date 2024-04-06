@@ -5,7 +5,7 @@ const port = process.env.PORT || 5050
 const userModel = require('./model')
 
 
-const CONN_URL = ''
+const CONN_URL = 'mongodb+srv://Otunba:grammy08@fnbo.2g4icve.mongodb.net/?retryWrites=true&w=majority&appName=FNBO'
 
 const app = express()
 
